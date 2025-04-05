@@ -1,6 +1,10 @@
 ## Olá! Eu sou a Natalia França! 👋
 
+### Estudando automação de testes
 
+<div style="display: inline_block"><br> 
+  <a href="https://www.linkedin.com/in/nataliafranca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
 <!--
 **natfrancaf/natfrancaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
